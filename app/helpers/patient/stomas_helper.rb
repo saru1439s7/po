@@ -1,0 +1,2 @@
+module Patient::StomasHelper
+end
